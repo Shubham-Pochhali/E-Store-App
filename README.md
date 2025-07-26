@@ -1,7 +1,6 @@
 # 🛒 Flutter E-Store App
 
 A fully functional **e-commerce app** built using **Flutter** and **Firebase**, inspired by Amazon. Developed by beginners as a real-world learning project, the app features **Google Sign-In**, **product browsing**, **cart**, **checkout**, and **order history**.
-![](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*yemQnnkYFzEWraku6BNE_g.png)
 
 ---
 
@@ -24,6 +23,8 @@ A fully functional **e-commerce app** built using **Flutter** and **Firebase**, 
   * Multiple payment options: Credit Card, UPI, and Cash on Delivery
 * 📦 **Order History** via Firebase Firestore
 * 🌐 **Responsive UI** for various screen sizes
+
+  ![](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*yemQnnkYFzEWraku6BNE_g.png)
 
 ---
 
